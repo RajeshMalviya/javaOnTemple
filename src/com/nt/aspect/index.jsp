@@ -1,0 +1,1 @@
+<jsp:forward http://www.google.co.in/>
